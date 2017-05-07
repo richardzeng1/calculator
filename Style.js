@@ -1,3 +1,6 @@
+/*
+* This file contains the style of the calculator.
+*/
 import { StyleSheet } from 'react-native';
 
 var Style = StyleSheet.create({

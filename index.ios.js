@@ -1,7 +1,7 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
+ * A simple four function calculator used to learn the basics
+ * of React Native
+ * @Author: Richard Zeng
  */
 import React, {Component} from 'react';
 import {
@@ -11,6 +11,7 @@ import {
 } from 'react-native';
 import Calculator from './Calculator';
 
+// This is the main method for ios platform.
 class main extends Component{
     render(){
         return(
